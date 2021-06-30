@@ -10,10 +10,10 @@ rit delete-all-images-docker run
 ```
 
 ## Demonstration
-> ## Ao executar a formula temos a seguinte exemplo comportamento abaixo:
+### Ao executar a formula temos a seguinte exemplo comportamento abaixo:
 
-![Exemplo](run\images\Capturar.PNG)
+![Exemplo](run/images/Capturar.PNG)
 
-> ## Ao executar os comandos para verificar se ainda existe as imagens Docker, contêineres e volumes ja voram removidas:
+### Ao executar os comandos para verificar se ainda existe as imagens Docker, contêineres e volumes ja voram removidas:
 
-![Exemplo](run\images\Capturar2.PNG)
+![Exemplo](run/images/Capturar2.PNG)

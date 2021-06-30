@@ -1,6 +1,6 @@
 # Description
 
-Formula 'delete-all-images-docker' tem como objetivo remover todas os contaniners e imagens e volumes "docker", com intuito liberar espaço em disco e manter seu sistema organizado, removendo imagens Docker, contêineres e volumes. 
+Formula 'delete-all-images-docker' tem como objetivo remover todas os containers e imagens e volumes "Docker", com intuito liberar espaço em disco e manter seu sistema organizado, removendo imagens Docker, containers e volumes. 
 
 
 ## Command
